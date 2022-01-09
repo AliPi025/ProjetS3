@@ -1,3 +1,2 @@
 # ProjetS3
-My project
-impleting different voting methods
+L2S3 Projet
